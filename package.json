@@ -17,6 +17,7 @@
     "test": "mocha -R spec -t 8000 test/*-test.js"
   },
   "dependencies": {
+    "jquery": "~2.1.3",
     "jstream": "~0.2.7",
     "request": "~2.37.0",
     "underscore": "~1.6.0"
